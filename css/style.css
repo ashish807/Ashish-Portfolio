@@ -792,8 +792,9 @@ ol {
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/blog/blog-1.jpg);
+  background: url(../img/education/education.jpg);
   background-size: cover;
+
 }
 
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
@@ -1258,7 +1259,7 @@ ol {
 }
 
 .portfolio__item__text {
-  text-align: center;
+  text-align: left;
 }
 .portfolio__item__text h4 {
   color: #ffffff;
